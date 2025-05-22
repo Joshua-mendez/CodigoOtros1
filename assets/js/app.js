@@ -1,5 +1,6 @@
 const baseEndpoint = 'https://api.github.com';
 const usersEndpoint = `${baseEndpoint}/users`;
+//Se asignaron correctamente añadiendo los "#" para id
 const $n = document.querySelector('#name');
 const $b = document.querySelector('#blog');
 const $l = document.querySelector('#location');
